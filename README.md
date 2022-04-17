@@ -2,8 +2,9 @@
 This is our implementation for the paper:
 
 Zhuoyi Lin, Lei Feng, Rui Yin, Chi Xu, Chee-Keong Kwoh, "GLIMG: Global and Local Item Graphs for Top-N Recommender Systems", Information Sciences.
+https://www.sciencedirect.com/science/article/abs/pii/S0020025521008185
 
-Please cite our Informqation Science paper if you use our codes. Thanks!
+Please cite our Information Science paper if you use our codes. Thanks!
 
 # Dataset
 
