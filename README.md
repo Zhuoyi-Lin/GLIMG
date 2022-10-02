@@ -4,7 +4,7 @@ This is our implementation for the paper:
 Zhuoyi Lin, Lei Feng, Rui Yin, Chi Xu, Chee-Keong Kwoh, "GLIMG: Global and Local Item Graphs for Top-N Recommender Systems", Information Sciences.
 [Link](https://www.sciencedirect.com/science/article/abs/pii/S0020025521008185)
 
-Please cite our Information Science paper if you use our codes. Thanks!
+GLIMG combines global and local user prefereces, and then performs recommendation on item graphs with an adapted semi-supervised learning model. Please cite our Information Science paper if you if you find it interesting. Thanks!
 ```
 @article{LIN20211,
 title = {GLIMG: Global and local item graphs for top-N recommender systems},
