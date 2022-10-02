@@ -30,7 +30,7 @@ In addition, Hit Ratio (HR) and Normalized Discounted Cumulative Gain (NDCG) are
 # Cluster Labels for 2 datasets
 We provide the cluster labels for each user using K-means++, which is shown in the "label.txt" documents.
 
-# Hyper-paramters
+# Hyper-parameters
 There are four hyper-paramters(k: number of clusters; g: balancing global and local effect; \mu and sigma), whose ranges are presented in our paper. We state the best set of parameters in our paper and code.
 
 # Contact
